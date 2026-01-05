@@ -27,26 +27,26 @@ This is a **console-based backend project**, designed to clearly showcase Java f
 
 ---
 
-## Project Structure
 TV-Show-Recommender/
 │
 ├── src/
-│ ├── Main.java
-│ ├── model/
-│ │ ├── TVShow.java
-│ │ └── User.java
-│ ├── service/
-│ │ └── RecommendationService.java
-│ └── util/
-│ └── DataLoader.java
+│   ├── Main.java
+│   │
+│   ├── model/
+│   │   ├── TVShow.java
+│   │   └── User.java
+│   │
+│   ├── service/
+│   │   └── RecommendationService.java
+│   │
+│   └── util/
+│       └── DataLoader.java
 │
 ├── data/
-│ └── tvshows.txt
+│   └── tvshows.txt
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -63,9 +63,6 @@ Copy code
 Recommended TV Shows for Alex:
 Better Call Saul (Drama, Rating: 9.0)
 
-yaml
-Copy code
-
 ---
 
 ## How to Run
@@ -73,37 +70,25 @@ Copy code
 ```bash
 git clone https://github.com/yourusername/TV-Show-Recommender.git
 Compile the project:
-
-bash
-Copy code
 javac src/Main.java
+
 Run the application:
-
-bash
-Copy code
 java src.Main
-Skills Demonstrated
+--------------------------------------------------------------------------------
+
+Skills Demonstrated:
 Java programming
-
 Object-oriented design
-
 Data filtering and sorting
-
 File parsing
-
 Clean code organization
-
 GitHub project structuring
 
-Future Improvements
+Future Improvements:
 Add a menu-driven user interface
-
 Implement multiple genre preferences
-
 Add unit tests (JUnit)
-
 Convert to a REST API using Spring Boot
-
 Add a graphical UI with JavaFX
 
 Author

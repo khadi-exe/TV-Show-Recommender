@@ -1,0 +1,5 @@
+Breaking Bad,Drama,9.5
+Better Call Saul,Drama,9.0
+Dark,Sci-Fi,8.8
+Stranger Things,Sci-Fi,8.7
+The Office,Comedy,8.9

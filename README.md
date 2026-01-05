@@ -68,7 +68,7 @@ Better Call Saul (Drama, Rating: 9.0)
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TV-Show-Recommender.git
+git clone https://github.com/khadi-exe/TV-Show-Recommender.git
 Compile the project:
 javac src/Main.java
 
